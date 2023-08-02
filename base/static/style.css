@@ -1,0 +1,21 @@
+table.table-bordered {
+    border-radius: 10%;
+    overflow: hidden;
+}
+
+table.table-bordered th,
+table.table-bordered td {
+    border-radius: 10%;
+}
+
+
+body{
+    background-color: #A1CCD1;
+}
+.task-container{
+    background-color: #F4F2DE;
+    padding: 5% 2%;
+    text-align: center;
+    border-radius: 5%;
+}
+
